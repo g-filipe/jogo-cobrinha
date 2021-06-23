@@ -1,0 +1,29 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background:  url('../img/bg8.png');
+    background-size: cover;
+    
+    color: rgb(26, 34, 26);
+}
+
+
+h1{
+    background-color: white;
+    margin-top:10px;
+}
+
+span{
+    background: gray;
+    margin-bottom: 10px;
+    color: white;
+    font-family:monospace;
+    font-size: 15px;
+   
+}
+
+
